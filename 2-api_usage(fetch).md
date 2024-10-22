@@ -1,0 +1,11 @@
+- montrer comment utiliser les console.log
+- montrer comment récupérer de la donnée
+- montrer comment utiliser la donnée
+- exemple
+- montrer une boucle 
+- innerHTML
+- consommer un JSON pour l'exo
+- challenge créer une/ des fonctions en manipulation de dom sans utiliser le innerHTML pour consumer l'api
+- créer un composant réutilisable et lui fournir la donnée
+- exercice se débrouiller avec une nouvelle api en cherchant sa doc
+ 
